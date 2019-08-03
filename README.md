@@ -13,7 +13,7 @@ especially when the number of labeled data is exceptionally small.
 ![image](./images/dataset_samples.png)
 
 ## About this project
-This Project is finised during my M.S. procedure, advised by Prof. Zhang.
+This Project was finised during my M.S. procedure, advised by Prof. Zhang.
 The paper has been accepted by IEEE Transactions on Intelligent Transportation Systems, 2018.
 
 ## About the code
